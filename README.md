@@ -20,21 +20,7 @@ A drag-and-drop HTML editor is a user-friendly tool that empowers you to design 
 
 Let's walk through the process of creating a simple email template using HTML, and then demonstrate how a drag-and-drop HTML editor simplifies this task.
 
-### HTML Example:
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your Email Template</title>
-</head>
-<body>
-    <div style="background-color: #F5F5F5; padding: 20px;">
-        <h1>Welcome to Our Newsletter</h1>
-        <p>Stay updated with the latest news and offers.</p>
-    </div>
-</body>
-</html>
 
 Now, let's see how this can be achieved with a drag-and-drop HTML editor::
 
