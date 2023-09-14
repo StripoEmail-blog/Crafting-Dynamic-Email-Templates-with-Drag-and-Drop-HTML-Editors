@@ -36,8 +36,7 @@ Let's walk through the process of creating a simple email template using HTML, a
 </body>
 </html>
 
-
-
+```
 
 Now, let's see how this can be achieved with a drag-and-drop HTML editor:
 
