@@ -54,7 +54,7 @@ Now, let's see how this can be achieved with a drag-and-drop HTML editor:
 
 ## Additional Resource for Deeper Insight
 
-For a more comprehensive exploration of crafting dynamic email templates quickly, consider delving into the article titled <a href="https://stripo.email/blog/creating-dynamic-emails-in-under-10-minutes/" rel="dofollow">"Creating Dynamic Emails in Under 10 Minutes"</a>. This resource offers valuable tips and strategies to craft engaging emails, harnessing the power of drag-and-drop editors and other email design techniques.
+For a more comprehensive exploration of crafting dynamic email templates quickly, consider delving into the article titled <a href="https://stripo.email/blog/creating-dynamic-emails-in-under-10-minutes/" rel="dofollow">"Creating Dynamic Emails in Under 10 Minutes"</a>. This resource offers valuable tips and strategies to craft engaging emails, harnessing the power of drag-and-drop editors and other email design techniques. 
 
 ## In Conclusion
 
