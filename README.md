@@ -3,7 +3,7 @@
 In today's fast-paced world of email marketing, creating dynamic and visually engaging email templates is essential for capturing your audience's attention and boosting engagement. To simplify this process and make it accessible to marketers of all skill levels, the use of drag-and-drop HTML editors has gained significant popularity.
 
 <img src="https://github.com/StripoEmail-blog/Crafting-Dynamic-Email-Templates-with-Drag-and-Drop-HTML-Editors/blob/main/Crafting%20Dynamic%20Email%20Templates.gif" alt="Crafting Dynamic Email Templates" width="800">
-
+ 
 ## Understanding Drag-and-Drop HTML Editors for Email Templates
 
 **What Are Drag-and-Drop HTML Editors?**
